@@ -1,3 +1,17 @@
+</h1>
+
+<h3 align="center">
+  dt money - Know where you spend your money
+</h3>
+
+<p align="center">
+  <a href="#-about-the-project">About the project</a> •
+  <a href="#-layout">Layout</a> •
+  <a href="#-technologies">Technologies</a> •
+  <a href="#-getting-started">Getting started</a> •
+  <a href="#-license">License</a>
+</p>
+
 ## 💲 About the project
 
 [dt money](https://dtmoney.vercel.app/) is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
